@@ -9,6 +9,14 @@
     border-radius: 20px;
     border-block-width: 10px;
 }
+
+#notes-save-status{
+  
+    
+}
+#notes-delete{
+   
+}
 #notes-save{
     display: block;
     border-color: cadetblue;
@@ -19,4 +27,28 @@
     display: block;
     border-color: cadetblue;
     block-size: 30px;
+}
+.icon_check{
+
+}
+.dialog-backdrop{
+
+}
+.no-scroll{
+
+}
+.dialog_label{
+
+}
+.notes{
+
+}
+.dialog_desc{
+    
+}
+.alertdialog{
+
+}
+.visuallyhidden{
+    
 }
