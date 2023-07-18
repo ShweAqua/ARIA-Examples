@@ -1,0 +1,22 @@
+.notes{
+    display:block;
+    width: 45%;
+    height:100px;
+    font-size: 14px;
+    font-family: 'Times New Roman', 'Times', 'serif';
+    border-style: groove solid;
+    border-color: blue;
+    border-radius: 20px;
+    border-block-width: 10px;
+}
+#notes-save{
+    display: block;
+    border-color: cadetblue;
+    block-size: 30px;
+    
+}
+#notes-delete{
+    display: block;
+    border-color: cadetblue;
+    block-size: 30px;
+}
