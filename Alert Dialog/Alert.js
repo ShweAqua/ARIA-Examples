@@ -517,8 +517,7 @@ aria.Utils.getAncestorBySelector = function (element, selector) {
       currentNode = currentNode.parentNode;
     }
   }
-
-  return ancestor;
+return ancestor;
 };
 
 aria.Utils.hasClass = function (element, className) {
